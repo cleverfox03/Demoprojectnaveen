@@ -2,3 +2,5 @@ Departments
 Mechanical Engineering
 Automotive Engineering
 Mechatronics 
+Computer Science Engineering
+Information Technology
