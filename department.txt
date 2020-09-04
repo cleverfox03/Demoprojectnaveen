@@ -2,5 +2,13 @@ Departments
 Mechanical Engineering
 Automotive Engineering
 Mechatronics 
+
+Electronics and Communication Engineering
+Electrical and Electronics Engineering
+Electronics and Instrumentals Engineering
+Electronics and Testing
+
+=======
 Computer Science Engineering
 Information Technology
+
